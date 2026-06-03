@@ -3,6 +3,8 @@ title: Privacy Policy
 permalink: /privacy-policy-en/
 ---
 
+🌐 [한국어](/privacy-policy-ko/) · [English](/privacy-policy-en/) · [日本語](/privacy-policy-ja/) · [繁體中文](/privacy-policy-zh-TW/)
+
 # Privacy Policy — Rainbow Sketchbook
 
 **Last Updated**: 2026-05-23

@@ -3,6 +3,8 @@ title: Terms of Service
 permalink: /terms-of-service-en/
 ---
 
+🌐 [한국어](/terms-of-service-ko/) · [English](/terms-of-service-en/) · [日本語](/terms-of-service-ja/) · [繁體中文](/terms-of-service-zh-TW/)
+
 # Terms of Service — Rainbow Sketchbook
 
 **Last Updated**: 2026-05-22

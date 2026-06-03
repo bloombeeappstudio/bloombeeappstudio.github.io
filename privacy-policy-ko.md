@@ -3,6 +3,8 @@ title: 개인정보 처리방침
 permalink: /privacy-policy-ko/
 ---
 
+🌐 [한국어](/privacy-policy-ko/) · [English](/privacy-policy-en/) · [日本語](/privacy-policy-ja/) · [繁體中文](/privacy-policy-zh-TW/)
+
 # 개인정보 처리방침 — 레인보우 스케치북
 
 **최종 업데이트일**: 2026-05-23
